@@ -204,25 +204,21 @@ Planned upgrades for future versions:
 
 ---
 
-# 👨‍💻 Author
+## 🙌 Author
 
-## Saroj Dhital
+**Saroj Dhital**
+*BCSIT Student & Frontend Developer - Kathmandu, Nepal*
 
-BCSIT Student & Frontend Developer  
-Kathmandu, Nepal
-
-### Links
-
-- Portfolio: https://saroj-portfolio-website.vercel.app/
-- GitHub: https://github.com/Joras-Latihd
-- LinkedIn: https://www.linkedin.com/in/sarojdhital71/
+[![Portfolio](https://img.shields.io/badge/Portfolio-saroj--portfolio--website.vercel.app-22d3ee?style=flat&logo=vercel)](https://saroj-portfolio-website.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Joras--Latihd-181717?style=flat&logo=github)](https://github.com/Joras-Latihd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarojdhital71-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarojdhital71/)
 
 ---
 
-# ⭐ Support
+## 🌟 Show Your Support
 
 If you liked this project:
 
-- ⭐ Star the repository
-- 🍴 Fork the project
-- 🗣 Share with friends
+- ⭐ Star this repo
+- 🗣 Share it with your friends
+
