@@ -55,6 +55,31 @@ Users can predict match scores, compete on the leaderboard, track live fixtures,
 
 ---
 
+## 📸 Screenshots
+
+**Home Interface**
+![Home](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Homepage.png)
+
+**Prediction Cards**
+![Prediction](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Prediction.png)
+
+**Personal Picks**
+![Picks](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Personal%20Picks.png)
+
+**Leaderboard**
+![Leaderboard](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Leaderboard.png)
+
+**Admin Control**
+![Admin](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Admin%20Control.png)
+
+**Linked Predictor**
+![Admin](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Linked%20Predictor.png)
+
+**FIFA Bracket Predictor**
+![Fifa](https://github.com/Joras-Latihd/Mission_WorldCup_2026/blob/5da6fdcaca7317a6e5576c1de6413373efe803f6/Bracket%20Predictor.png)
+
+---
+
 ## ✨ Core Functionalities
 
 ### ⚽ Match Prediction System
