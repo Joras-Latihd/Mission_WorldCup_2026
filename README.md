@@ -14,7 +14,6 @@ Users can predict match scores, compete on the leaderboard, track live fixtures,
 - 📊 Match prediction system with lock after kickoff
 - 🎯 User prediction history and performance tracking
 - 📺 Live match and finished match status support
-- 🌑 Premium dark football-inspired UI
 - ✨ Smooth animations using Framer Motion
 - 📱 Fully responsive on desktop, tablet, and mobile
 - 💾 Persistent local storage data handling
@@ -35,7 +34,6 @@ Users can predict match scores, compete on the leaderboard, track live fixtures,
 ### Utilities & Libraries
 - **date-fns** - Date formatting and countdown handling
 - **Lucide React** - Modern icon system
-- **Sonner** - Toast notifications
 
 ### Storage
 - **localStorage** - User predictions and leaderboard persistence
@@ -225,7 +223,6 @@ Planned upgrades for future versions:
 - 📊 Advanced analytics
 - 🔔 Match notifications
 - 🌎 Multi-language support
-- 📱 PWA support
 
 ---
 
